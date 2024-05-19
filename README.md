@@ -90,6 +90,10 @@ Este projeto apresentou uma solução robusta e segura para o desafio de "Distri
 
 Este README serve como uma documentação, descrevendo desde a organização do código até a configuração do ambiente AWS, oferecendo um guia abrangente para a replicação e entendimento do projeto.
 
+Após a configuração de todos os passos acima e atualização das variáveis de ambiente do projeto, execute `python3 __main__.py`, onde o resultado final será algo semelhante à evidência abaixo:
+
+![Teste de Execução do Projeto](./assets/request-results.png)
+
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber notificando <gustavomainchein@outlook.com.br>
