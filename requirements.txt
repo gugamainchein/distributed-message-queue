@@ -1,0 +1,5 @@
+dotenv
+uuid
+requests
+os
+json
